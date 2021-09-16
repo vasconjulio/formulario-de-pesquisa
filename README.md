@@ -1,7 +1,7 @@
 ## FORMULÁRIO DE PESQUISA
 
 <h1 align="center">
-    <img src="https://ik.imagekit.io/p7aqqjfkrdg/1_Dt09duFuo.gif?updatedAt=1628775337757">
+    <img src="./github/1_Dt09duFuo.gif">
 </h1>
 
 ## 💡 Sobre
